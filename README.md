@@ -4,12 +4,13 @@ A simple cmake template
 - Works on Windows (probably Linux as well but have not tested)
 - Initialize with : `cmake -S . -B ./_build`
 - Pulls down 3rd party dependancies with CMake Fetch
+- Makes `ASSETS_PATH` macro available to code
 ## Structure
 ```
 _build/ - Location for build artifacts (gitignore)  
 _external/ (Compiled/src 3rd party libraries and headers)  
 assets/ - binary assets (textures, audio files, compiled shaders)  
-source/ (Source files for project)  
+sources/ (Source files for project)  
 .gitattributes  
 .gitignore  
 LICENCE  
