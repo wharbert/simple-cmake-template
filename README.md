@@ -2,7 +2,7 @@
 A simple cmake template 
 - Works with VS Code and Visual Studio 2022
 - Works on Windows (probably Linux as well but have not tested)
-- Initialize with : `cmake -S . -B ./_build
+- Initialize with : `cmake -S . -B ./_build`
 - Pulls down 3rd party dependancies with CMake Fetch
 ## Structure
 ```
