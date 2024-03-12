@@ -10,6 +10,8 @@ project(
 
 set(CMAKE_CXX_STANDARD 20) # Set required C++ Standard
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE) 
+set(PROJECT_SRC_DIR "${CMAKE_CURRENT_LIST_DIR}/sources")
+
 
 #Output list of dirs (result) from parent dir (curdir)
 MACRO(SUBDIRLIST result curdir) 
@@ -40,17 +42,34 @@ endif()
 #FETCH EXTERNAL LIBS
 FetchContent_MakeAvailable(raylib)
 
-# DEFINE SOURCES : ./sources/*cpp except ./sources/old/*
-file(GLOB_RECURSE PROJECT_SOURCES CONFIGURE_DEPENDS "${CMAKE_CURRENT_LIST_DIR}/sources/*.cpp") # Define PROJECT_SOURCES as a list of all source files
-file(GLOB to_remove "${CMAKE_CURRENT_LIST_DIR}/sources/old/*")
-list(REMOVE_ITEM PROJECT_SOURCES ${to_remove})
-set(PROJECT_INCLUDE "${CMAKE_CURRENT_LIST_DIR}/sources/") # Define PROJECT_INCLUDE to be the path to the include directory of the project
+# DEFINE SOURCES : ./sources/*.[cpp|hpp|h] except ./sources/old/*
+file(GLOB SRCS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/*.cpp")
+file(GLOB HEADERS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/*.h")
+file(GLOB HEADERS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/*.hpp")
+source_group("Header Files" FILES  ${HEADERS})
+source_group("Source Files" FILES  ${SRCS})
+list(APPEND PROJECT_SOURCES ${SRCS})
+list(APPEND PROJECT_SOURCES ${HEADERS})
 
+#Loop through subdirs to glob files and add to source_groups
+SUBDIRLIST(SRC_DIRS ${PROJECT_SRC_DIR})
+list(REMOVE_ITEM SRC_DIRS "old")
+FOREACH(DIR ${SRC_DIRS})
+  set(SRCS "")
+  set(HEADERS "")
+  file(GLOB_RECURSE SRCS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/${DIR}/*.cpp")
+  file(GLOB_RECURSE HEADERS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/${DIR}/*.h")
+  file(GLOB_RECURSE HEADERS CONFIGURE_DEPENDS "${PROJECT_SRC_DIR}/${DIR}/*.hpp")
+  source_group("Header Files\\${DIR}" FILES  ${HEADERS})
+  source_group("Source Files\\${DIR}" FILES  ${SRCS})
+  list(APPEND PROJECT_SOURCES ${SRCS})
+  list(APPEND PROJECT_SOURCES ${HEADERS})
+ENDFOREACH()
 
 # ADD EXECUTABLE
 add_executable(${PROJECT_NAME} ${PROJECT_SOURCES})
-target_include_directories(${PROJECT_NAME} PRIVATE ${PROJECT_INCLUDE})
-set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})
+target_include_directories(${PROJECT_NAME} PRIVATE ${PROJECT_SRC_DIR})
+set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME}) #Set VS Default Project
 
 #INCLUDE EXTERNAL LIBS
 SUBDIRLIST(EXT_LIBS "${CMAKE_CURRENT_LIST_DIR}/_external/")
