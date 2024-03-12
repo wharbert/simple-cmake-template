@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "xstring": "cpp"
+    },
+    "cmake.buildDirectory": "${workspaceFolder}/_build"
+}
