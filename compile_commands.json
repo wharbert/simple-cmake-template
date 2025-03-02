@@ -1,0 +1,1268 @@
+[
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/core/Engine.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/Engine.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/Engine.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/core/Engine.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/core/EventHandler.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/EventHandler.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/EventHandler.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/core/EventHandler.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/core/Logger.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/Logger.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/Logger.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/core/Logger.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/core/System.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/System.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/core/System.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/core/System.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/managers/AssetManager.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/AssetManager.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/AssetManager.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/managers/AssetManager.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/managers/BackgroundManager.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/BackgroundManager.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/BackgroundManager.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/managers/BackgroundManager.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/managers/CameraManager.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/CameraManager.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/CameraManager.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/managers/CameraManager.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/managers/ConfigManager.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/ConfigManager.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/ConfigManager.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/managers/ConfigManager.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/managers/EventManager.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/EventManager.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/managers/EventManager.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/managers/EventManager.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SAgent.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SAgent.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SAgent.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SAgent.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SBackground.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SBackground.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SBackground.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SBackground.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SCamera.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SCamera.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SCamera.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SCamera.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SCollision.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SCollision.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SCollision.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SCollision.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SInput.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SInput.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SInput.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SInput.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SObjects.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SObjects.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SObjects.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SObjects.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SPlayer.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SPlayer.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SPlayer.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SPlayer.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SRender.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SRender.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SRender.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SRender.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SRigidBody.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SRigidBody.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SRigidBody.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SRigidBody.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/SSprite.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SSprite.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/SSprite.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/SSprite.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/engine/systems/STransform.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/STransform.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/engine/systems/STransform.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/engine/systems/STransform.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/game/SpaceGame.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/game/SpaceGame.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/game/SpaceGame.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/game/SpaceGame.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DASSETS_PATH=\\\"/home/wiharb/dev/cpp/new-simple-cmake/assets/\\\" -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DSPDLOG_COMPILED_LIB -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/nlohmann_json/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -O3 -DNDEBUG -std=c++20 -o CMakeFiles/new-simple-cmake.dir/src/main.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/src/main.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/src/main.cpp",
+  "output": "CMakeFiles/new-simple-cmake.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rcore.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rcore.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rcore.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rcore.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rmodels.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rmodels.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rmodels.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rmodels.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rshapes.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rshapes.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rtext.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rtext.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtextures.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rtextures.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/rtextures.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtextures.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/utils.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/utils.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src -isystem /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -o _deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/raudio.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/raudio.c",
+  "output": "_deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/context.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/context.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/init.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/init.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/input.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/input.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/monitor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/monitor.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/platform.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/platform.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/vulkan.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/vulkan.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/window.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/window.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/egl_context.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/egl_context.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/osmesa_context.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/osmesa_context.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_init.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_init.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_monitor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_monitor.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_window.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_window.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -Wdeclaration-after-statement -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_joystick.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/null_joystick.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_module.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_module.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_time.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_time.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_thread.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_thread.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_init.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_init.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_monitor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_monitor.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_window.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/x11_window.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/xkb_unicode.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/xkb_unicode.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/glx_context.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/glx_context.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/linux_joystick.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/linux_joystick.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/include -I/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src -I/home/wiharb/dev/cpp/new-simple-cmake/_build/release/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fPIC -Wall -o _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_poll.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/raylib/src/external/glfw/src/posix_poll.c",
+  "output": "_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/alerts.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/alerts.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/alerts.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/alerts.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/app.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/app.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/app.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/app.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/coredoc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/coredoc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/coredoc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/coredoc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/doc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/doc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/doc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/doc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/deserialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/deserialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/deserialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/deserialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/serialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/serialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/serialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/serialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/utils.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/utils.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/utils.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/utils.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/vars.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/vars.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/vars.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/expr/vars.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/flecs_cpp.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/flecs_cpp.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/flecs_cpp.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/flecs_cpp.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/http.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/http.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/http.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/http.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/journal.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/journal.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/journal.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/journal.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/deserialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/deserialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/deserialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/deserialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/json.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/json.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/json.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/json.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize_iter_rows.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_iter_rows.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_iter_rows.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize_iter_rows.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize_type_info.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_type_info.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_type_info.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/json/serialize_type_info.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/log.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/log.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/log.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/log.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/cursor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/cursor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/cursor.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/cursor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/meta.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/meta.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/meta.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/meta.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/serialized.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/serialized.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/serialized.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta/serialized.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta_c.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta_c.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta_c.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/meta_c.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/metrics.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/metrics.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/metrics.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/metrics.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/module.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/module.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/module.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/module.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/monitor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/monitor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/monitor.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/monitor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/os_api_impl/os_api_impl.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/os_api_impl/os_api_impl.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/os_api_impl/os_api_impl.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/os_api_impl/os_api_impl.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/parser.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/parser.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/parser.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/parser.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/pipeline/pipeline.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/pipeline.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/pipeline.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/pipeline/pipeline.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/pipeline/worker.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/worker.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/worker.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/pipeline/worker.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/plecs.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/plecs.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/plecs.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/plecs.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rest.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rest.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rest.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rest.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/compile.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/compile.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/compile.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/compile.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/engine.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/engine.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/engine.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/engine.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_down_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_down_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_down_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_down_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_up_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_up_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_up_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trav_up_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trivial_iter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trivial_iter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trivial_iter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/rules/trivial_iter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/snapshot.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/snapshot.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/snapshot.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/snapshot.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/stats.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/stats.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/stats.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/stats.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/system/system.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/system/system.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/system/system.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/system/system.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/timer.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/timer.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/timer.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/timer.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/addons/units.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/units.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/units.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/addons/units.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/bootstrap.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/bootstrap.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/bootstrap.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/bootstrap.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/bitset.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/bitset.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/bitset.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/bitset.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/block_allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/block_allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/block_allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/block_allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/hash.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hash.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hash.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/hash.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/hashmap.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hashmap.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hashmap.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/hashmap.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/map.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/map.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/map.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/map.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/name_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/name_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/name_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/name_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/sparse.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/sparse.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/sparse.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/sparse.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/stack_allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/stack_allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/stack_allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/stack_allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/strbuf.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/strbuf.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/strbuf.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/strbuf.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/switch_list.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/switch_list.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/switch_list.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/switch_list.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/vec.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/vec.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/vec.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/datastructures/vec.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/entity.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/entity.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/entity_filter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_filter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_filter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/entity_filter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/entity_name.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_name.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_name.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/entity_name.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/filter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/filter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/filter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/filter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/iter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/iter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/iter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/iter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/misc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/misc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/misc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/misc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/observable.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observable.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observable.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/observable.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/observer.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observer.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observer.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/observer.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/os_api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/os_api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/os_api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/os_api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/poly.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/poly.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/poly.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/poly.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/query.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/query.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/query.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/query.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/search.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/search.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/search.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/search.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/stage.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/stage.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/stage.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/stage.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/storage/entity_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/entity_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/entity_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/storage/entity_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/storage/id_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/id_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/id_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/storage/id_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table_graph.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_graph.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_graph.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/storage/table_graph.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/value.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/value.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/value.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/value.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_EXPORTS -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs.dir/src/world.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/world.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/world.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs.dir/src/world.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/alerts.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/alerts.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/alerts.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/alerts.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/app.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/app.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/app.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/app.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/coredoc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/coredoc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/coredoc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/coredoc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/doc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/doc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/doc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/doc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/deserialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/deserialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/deserialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/deserialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/serialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/serialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/serialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/serialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/utils.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/utils.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/utils.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/utils.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/vars.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/vars.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/expr/vars.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/expr/vars.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/flecs_cpp.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/flecs_cpp.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/flecs_cpp.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/flecs_cpp.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/http.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/http.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/http.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/http.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/journal.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/journal.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/journal.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/journal.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/deserialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/deserialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/deserialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/deserialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/json.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/json.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/json.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/json.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize_iter_rows.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_iter_rows.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_iter_rows.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize_iter_rows.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize_type_info.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_type_info.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/json/serialize_type_info.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/json/serialize_type_info.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/log.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/log.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/log.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/log.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/cursor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/cursor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/cursor.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/cursor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/meta.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/meta.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/meta.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/meta.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/serialized.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/serialized.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta/serialized.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta/serialized.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta_c.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta_c.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/meta_c.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/meta_c.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/metrics.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/metrics.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/metrics.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/metrics.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/module.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/module.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/module.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/module.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/monitor.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/monitor.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/monitor.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/monitor.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/os_api_impl/os_api_impl.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/os_api_impl/os_api_impl.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/os_api_impl/os_api_impl.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/os_api_impl/os_api_impl.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/parser.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/parser.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/parser.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/parser.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/pipeline/pipeline.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/pipeline.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/pipeline.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/pipeline/pipeline.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/pipeline/worker.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/worker.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/pipeline/worker.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/pipeline/worker.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/plecs.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/plecs.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/plecs.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/plecs.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rest.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rest.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rest.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rest.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/compile.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/compile.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/compile.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/compile.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/engine.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/engine.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/engine.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/engine.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_down_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_down_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_down_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_down_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_up_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_up_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trav_up_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trav_up_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trivial_iter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trivial_iter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/rules/trivial_iter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/rules/trivial_iter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/snapshot.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/snapshot.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/snapshot.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/snapshot.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/stats.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/stats.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/stats.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/stats.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/system/system.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/system/system.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/system/system.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/system/system.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/timer.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/timer.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/timer.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/timer.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/units.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/units.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/addons/units.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/addons/units.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/bootstrap.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/bootstrap.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/bootstrap.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/bootstrap.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/bitset.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/bitset.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/bitset.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/bitset.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/block_allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/block_allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/block_allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/block_allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/hash.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hash.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hash.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/hash.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/hashmap.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hashmap.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/hashmap.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/hashmap.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/map.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/map.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/map.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/map.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/name_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/name_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/name_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/name_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/sparse.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/sparse.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/sparse.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/sparse.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/stack_allocator.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/stack_allocator.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/stack_allocator.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/stack_allocator.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/strbuf.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/strbuf.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/strbuf.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/strbuf.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/switch_list.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/switch_list.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/switch_list.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/switch_list.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/vec.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/vec.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/datastructures/vec.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/datastructures/vec.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity_filter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_filter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_filter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity_filter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity_name.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_name.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/entity_name.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/entity_name.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/filter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/filter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/filter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/filter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/iter.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/iter.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/iter.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/iter.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/misc.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/misc.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/misc.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/misc.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/observable.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observable.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observable.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/observable.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/observer.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observer.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/observer.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/observer.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/os_api.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/os_api.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/os_api.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/os_api.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/poly.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/poly.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/poly.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/poly.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/query.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/query.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/query.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/query.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/search.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/search.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/search.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/search.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/stage.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/stage.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/stage.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/stage.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/entity_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/entity_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/entity_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/entity_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/id_index.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/id_index.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/id_index.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/id_index.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table_cache.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_cache.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_cache.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table_cache.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table_graph.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_graph.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/storage/table_graph.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/storage/table_graph.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/value.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/value.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/value.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/value.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/gcc -Dflecs_STATIC -I/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/include -O3 -DNDEBUG -std=gnu99 -fPIC -fvisibility=hidden -o _deps/flecs-build/CMakeFiles/flecs_static.dir/src/world.c.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/world.c",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/flecs_static/src/world.c",
+  "output": "_deps/flecs-build/CMakeFiles/flecs_static.dir/src/world.c.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/spdlog.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/spdlog.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/stdout_sinks.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/stdout_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/color_sinks.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/color_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/file_sinks.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/file_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/async.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/async.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/cfg.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/cfg.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
+},
+{
+  "directory": "/home/wiharb/dev/cpp/new-simple-cmake/_build/release",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -I/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/include -O3 -DNDEBUG -std=c++20 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/bundled_fmtlib_format.cpp",
+  "file": "/home/wiharb/dev/cpp/new-simple-cmake/_external/spdlog/src/bundled_fmtlib_format.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
+}
+]

@@ -1,0 +1,200 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "conan-debug",
+            "hidden": true,
+            "cacheVariables": {
+                "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/_conan/debug/conan_toolchain.cmake"
+            }
+        },
+        {
+            "name": "conan-release",
+            "hidden": true,
+            "cacheVariables": {
+                "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/_conan/release/conan_toolchain.cmake"
+            }
+        },
+        {
+            "name": "ninja",
+            "hidden": true,
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_BUILD_PARALLEL_LEVEL": "8"
+            }
+        },
+
+        {
+            "name": "release",
+            "hidden": true,
+            "binaryDir": "${sourceDir}/_build/release",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": true,
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/_build/release/install"
+            },
+            "warnings": {
+                "unusedCli": false
+            }
+        },
+        {
+            "name": "debug",
+            "hidden": true,
+            "binaryDir": "${sourceDir}/_build/debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "BUILD_TESTS": true,
+                "CMAKE_EXPORT_COMPILE_COMMANDS": true,
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/_build/debug/install"
+            }
+        },
+        {
+            "name": "gcc",
+            "hidden": true,
+            "cacheVariables": {
+                "CMAKE_CXX_COMPILER": "g++",
+                "CMAKE_C_COMPILER": "gcc"
+            }
+        },
+        {
+            "name": "clang",
+            "hidden": true,
+            "cacheVariables": {
+                "CMAKE_CXX_COMPILER": "clang++",
+                "CMAKE_C_COMPILER": "clang"
+            }
+        },
+        {
+            "name": "vs2022",
+            "hidden": true,
+            "generator": "Visual Studio 17 2022",
+            "cacheVariables": {
+                "CMAKE_CXX_FLAGS_INIT": "$env{CMAKE_CXX_FLAGS_INIT} $env{CMAKE_CXX_FLAGS} /W4 /WX /EHsc"
+            }
+        },
+        {
+            "name": "conan",
+            "hidden": true,
+            "cacheVariables": {
+              "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/_conan/conan_toolchain.cmake",
+              "CMAKE_POLICY_DEFAULT_CMP0091": "NEW"
+            }
+          },
+          {
+            "name": "cppcheck",
+            "hidden": true,
+            "cacheVariables": {
+              "CMAKE_CXX_CPPCHECK": "cppcheck;--inline-suppr"
+            }
+          },
+          {
+            "name": "clang-tidy",
+            "hidden": true,
+            "cacheVariables": {
+              "CMAKE_CXX_CLANG_TIDY": "clang-tidy;--header-filter=^${sourceDir}/"
+            }
+        },        
+        {
+            "name": "flags-gcc-clang",
+            "description": "These flags are supported by both GCC and Clang",
+            "hidden": true,
+            "cacheVariables": {
+              "CMAKE_CXX_FLAGS": "-D_GLIBCXX_ASSERTIONS=1 -fstack-protector-strong -fcf-protection=full -fstack-clash-protection -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wcast-qual -Wformat=2 -Wundef -Werror=float-equal -Wshadow -Wcast-align -Wunused -Wnull-dereference -Wdouble-promotion -Wimplicit-fallthrough -Wextra-semi -Woverloaded-virtual -Wnon-virtual-dtor -Wold-style-cast",
+              "CMAKE_EXE_LINKER_FLAGS": "-Wl,--allow-shlib-undefined,--as-needed,-z,noexecstack,-z,relro,-z,now,-z,nodlopen",
+              "CMAKE_SHARED_LINKER_FLAGS": "-Wl,--allow-shlib-undefined,--as-needed,-z,noexecstack,-z,relro,-z,now,-z,nodlopen"
+            }
+        },
+        {
+            "name": "flags-msvc",
+            "description": "Note that all the flags after /W4 are required for MSVC to conform to the language standard",
+            "hidden": true,
+            "cacheVariables": {
+              "CMAKE_CXX_FLAGS": "/sdl /guard:cf /utf-8 /diagnostics:caret /w14165 /w44242 /w44254 /w44263 /w34265 /w34287 /w44296 /w44365 /w44388 /w44464 /w14545 /w14546 /w14547 /w14549 /w14555 /w34619 /w34640 /w24826 /w14905 /w14906 /w14928 /w45038 /W4 /permissive- /volatile:iso /Zc:inline /Zc:preprocessor /Zc:enumTypes /Zc:lambda /Zc:__cplusplus /Zc:externConstexpr /Zc:throwingNew /EHsc",
+              "CMAKE_EXE_LINKER_FLAGS": "/machine:x64 /guard:cf"
+            }
+        },
+        {
+            "name": "vs2022",
+            "hidden": true,
+            "generator": "Visual Studio 17 2022",
+            "cacheVariables": {
+                "CMAKE_CXX_FLAGS_INIT": "$env{CMAKE_CXX_FLAGS_INIT} $env{CMAKE_CXX_FLAGS} /W4 /WX /EHsc"
+            }
+        },
+        
+        {
+            "name": "gcc-release",
+            "displayName": "GCC Release",
+            "inherits": ["gcc", "ninja", "release"]
+        },
+
+        {
+            "name": "gcc-debug",
+            "displayName": "GCC Debug",
+            "inherits": ["gcc", "ninja", "debug"]
+        },
+
+        {
+            "name": "clang-release",
+            "displayName": "CLANG Release",
+            "inherits": ["clang", "ninja", "release"]
+        },
+
+        {
+            "name": "clang-debug",
+            "displayName": "CLANG Debug",
+            "inherits": ["clang", "ninja", "debug"]
+        },
+
+        {
+            "name": "vs2022-rel",
+            "displayName": "Visual Studio 2022 Release",
+            "inherits": ["vs2022", "release", "flags-msvc"]
+        },
+
+        {
+            "name": "vs2022-deb",
+            "displayName": "Visual Studio 2022 Debug",
+            "inherits": ["vs2022", "debug", "flags-msvc"]
+        }
+
+    ],
+    "buildPresets": [
+        {
+            "name": "vs2022-rel",
+            "displayName": "Visual Studio 2022 Release Build",
+            "configurePreset": "vs2022-rel",
+            "configuration": "Release"
+        },
+        {
+            "name": "vs2022-deb",
+            "displayName": "Visual Studio 2022 Debug Build",
+            "configurePreset": "vs2022-deb",
+            "configuration": "Debug"
+        },
+        {
+            "name": "gcc-debug",
+            "displayName": "GCC Debug Build",
+            "configurePreset": "gcc-debug",
+            "configuration": "Debug"
+        },
+        {
+            "name": "clang-debug",
+            "displayName": "Clang Debug Build",
+            "configurePreset": "clang-debug",
+            "configuration": "Debug"
+        },
+        {
+            "name": "gcc-release",
+            "displayName": "GCC Release Build",
+            "configurePreset": "gcc-release",
+            "configuration": "Release"
+        },
+        {
+            "name": "clang-release",
+            "displayName": "Clang Release Build",
+            "configurePreset": "clang-release",
+            "configuration": "Release"
+        }
+    ]
+}
